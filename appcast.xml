@@ -6,9 +6,6 @@
         <language>en</language>
         <item>
             <title>Version 1.4.8</title>
-            <!-- <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
-            </sparkle:releaseNotesLink> -->
             <description>
                     <![CDATA[
                 <ul>
@@ -26,9 +23,6 @@
         </item>
         <item>
             <title>Version 1.4.9</title>
-            <!-- <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
-            </sparkle:releaseNotesLink> -->
             <description>
                     <![CDATA[
                 <ul>
@@ -40,6 +34,23 @@
             <enclosure url="https://github.com/code-lume/lume-erp/releases/download/1.4.9/desktop-1.4.9+1-windows-setup.exe"
                        sparkle:dsaSignature="MDwCHFTc1Gq5DXKJ5uUGpk9Xxg0347eqV7Q55QGQIn8CHA1kQmoAXAcDC8wXaYES8Ql9Y7eTp10ueBPWFoU="
                        sparkle:version="1.4.9+1"
+                       sparkle:os="windows"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+         <item>
+            <title>Version 1.4.10</title>
+            <description>
+                    <![CDATA[
+                <ul>
+                <li>1. update description demo 1.</li>
+                </ul>
+                    ]]>
+            </description>
+            <pubDate>Sun, 17 Feb 2024 12:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/code-lume/lume-erp/releases/download/1.4.10/desktop-1.4.10+1-windows-setup.exe"
+                       sparkle:dsaSignature="MDwCHG3DI8QhQyXOGOHzZcuEOrRjvEaB2VLdX0ehRSICHB7C+bD4wPbC+soPfVsflVpPeh2N5d217Gepct0="
+                       sparkle:version="1.4.10+1"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
