@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>LUME ERP</title>
-        <description>This is a test description.</description>
+        <title>Lume ERP</title>
+        <description>Gestão empresarial descomplicada.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.11</title>
+            <title>Version 1.4.12</title>
             <description>
-                    <![CDATA[
-                <ul>
-                <li>1. update description demo 1.</li>
-                </ul>
-                    ]]>
+                <![CDATA[
+                    <ul>
+                        <li>1. Financeiro</li>
+                    </ul>
+                ]]>
             </description>
             <pubDate>Sun, 17 Feb 2024 12:00:00 +0800</pubDate>
-            <enclosure url="https://github.com/code-lume/lume-erp/releases/download/1.4.11/desktop-1.4.11+1-windows-setup.exe"
-                       sparkle:dsaSignature="MD0CHQDl6+rOF0pR2dcO5MaXoZlPNSGVQLNGJRQWXuN3Ahx7tRDN4EYjDBfU6Mqbrdj0R2Xd2yoY/4xqUIzh"
-                       sparkle:version="1.4.11+1"
+            <enclosure url="https://github.com/code-lume/lume-erp/releases/download/1.4.12/desktop-1.4.12+1-windows-setup.exe"
+                       sparkle:dsaSignature="MD0CHGPDCiFrWy6SVPcgNBDUVYOZE+vxtoVwGjrpqQACHQDJHDiDJQklhQZZbzCDrRFHrx8jzQ4hIiLLj8Wj"
+                       sparkle:version="1.4.12+1"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
