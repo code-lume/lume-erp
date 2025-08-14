@@ -5,7 +5,7 @@
         <description>Gestão empresarial descomplicada.</description>
         <language>en</language>
         <item>
-            <title>Version 1.8.5</title>
+            <title>Version 1.9.0</title>
             <description>
                 <![CDATA[
                     <ul>
@@ -14,12 +14,13 @@
                 ]]>
             </description>
             <pubDate>Sun, 17 Feb 2024 12:00:00 +0800</pubDate>
-            <enclosure url="https://github.com/code-lume/lume-erp/releases/download/1.8.5/desktop-1.8.5+1-windows-setup.exe"
-                       sparkle:dsaSignature="MD0CHQDky+Kv6X7yty/9vtwuh4WVVTiTLhSjreSqLtZDAhwtADqEaEGb/yiUbaB5MstmJ2CP2ojAJUXhSir2"
-                       sparkle:version="1.8.5+1"
+            <enclosure url="https://github.com/code-lume/lume-erp/releases/download/1.9.0/desktop-1.9.0+1-windows-setup.exe"
+                       sparkle:dsaSignature="MD0CHQC9zZTdTG1w3duvjBIKOrPxcsA64cUSUAOFAkf9AhwRglqWAnkIOVPPKG4S7VlTZb1idgmBCJxooPZV"
+                       sparkle:version="1.9.0+1"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
         </item>
     </channel>
 </rss>
+
