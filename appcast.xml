@@ -15,7 +15,7 @@
             </description>
             <pubDate>Sun, 17 Feb 2024 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/code-lume/lume-erp/releases/download/1.12.1/desktop-1.12.1+1-windows-setup.exe"
-                       sparkle:dsaSignature="MD0CHGdI4R5tPJai2FGu/FzsGT/IPwJG8y1AlynfY8gCHQC+Bd1S82Tp7tUpLZU/6fpB++N/bSltE/4BilNG"
+                       sparkle:dsaSignature="MD4CHQCwytYdyYd2h470WyXwnk7R1bBk44oaBM/Sc5g5Ah0Aut4k5I3Vxq35LSw+Oi48amzCBIitPL7GnqB/gw=="
                        sparkle:version="1.12.1+1"
                        sparkle:os="windows"
                        length="0"
@@ -23,6 +23,7 @@
         </item>
     </channel>
 </rss>
+
 
 
 
